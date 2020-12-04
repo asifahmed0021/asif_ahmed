@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.00ab6804.chunk.css",
-    "main.js": "/react-deploy/static/js/main.70fb2537.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.70fb2537.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.89bb4b2a.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.89bb4b2a.js.map",
-    "static/js/2.d8535f51.chunk.js": "/react-deploy/static/js/2.d8535f51.chunk.js",
-    "static/js/2.d8535f51.chunk.js.map": "/react-deploy/static/js/2.d8535f51.chunk.js.map",
-    "index.html": "/react-deploy/index.html",
-    "static/css/main.00ab6804.chunk.css.map": "/react-deploy/static/css/main.00ab6804.chunk.css.map",
-    "static/js/2.d8535f51.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.d8535f51.chunk.js.LICENSE.txt",
-    "static/media/about.css": "/react-deploy/static/media/asifdp.ada67e6d.jpg",
-    "static/media/extra.css": "/react-deploy/static/media/team.1051b7a9.jpg",
-    "static/media/home.css": "/react-deploy/static/media/home-bg.64fe3eef.png"
+    "main.css": "/asifahmed/static/css/main.9530493a.chunk.css",
+    "main.js": "/asifahmed/static/js/main.70fb2537.chunk.js",
+    "main.js.map": "/asifahmed/static/js/main.70fb2537.chunk.js.map",
+    "runtime-main.js": "/asifahmed/static/js/runtime-main.7f61cb78.js",
+    "runtime-main.js.map": "/asifahmed/static/js/runtime-main.7f61cb78.js.map",
+    "static/js/2.d8535f51.chunk.js": "/asifahmed/static/js/2.d8535f51.chunk.js",
+    "static/js/2.d8535f51.chunk.js.map": "/asifahmed/static/js/2.d8535f51.chunk.js.map",
+    "index.html": "/asifahmed/index.html",
+    "static/css/main.9530493a.chunk.css.map": "/asifahmed/static/css/main.9530493a.chunk.css.map",
+    "static/js/2.d8535f51.chunk.js.LICENSE.txt": "/asifahmed/static/js/2.d8535f51.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/asifahmed/static/media/asifdp.ada67e6d.jpg",
+    "static/media/extra.css": "/asifahmed/static/media/team.1051b7a9.jpg",
+    "static/media/home.css": "/asifahmed/static/media/home-bg.64fe3eef.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.89bb4b2a.js",
+    "static/js/runtime-main.7f61cb78.js",
     "static/js/2.d8535f51.chunk.js",
-    "static/css/main.00ab6804.chunk.css",
+    "static/css/main.9530493a.chunk.css",
     "static/js/main.70fb2537.chunk.js"
   ]
 }
