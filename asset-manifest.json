@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/asif_ahmed/static/css/main.871ff6c5.chunk.css",
-    "main.js": "/asif_ahmed/static/js/main.70fb2537.chunk.js",
-    "main.js.map": "/asif_ahmed/static/js/main.70fb2537.chunk.js.map",
+    "main.css": "/asif_ahmed/static/css/main.7022a24f.chunk.css",
+    "main.js": "/asif_ahmed/static/js/main.8d69e193.chunk.js",
+    "main.js.map": "/asif_ahmed/static/js/main.8d69e193.chunk.js.map",
     "runtime-main.js": "/asif_ahmed/static/js/runtime-main.a5d3d183.js",
     "runtime-main.js.map": "/asif_ahmed/static/js/runtime-main.a5d3d183.js.map",
     "static/js/2.d8535f51.chunk.js": "/asif_ahmed/static/js/2.d8535f51.chunk.js",
     "static/js/2.d8535f51.chunk.js.map": "/asif_ahmed/static/js/2.d8535f51.chunk.js.map",
     "index.html": "/asif_ahmed/index.html",
-    "static/css/main.871ff6c5.chunk.css.map": "/asif_ahmed/static/css/main.871ff6c5.chunk.css.map",
+    "static/css/main.7022a24f.chunk.css.map": "/asif_ahmed/static/css/main.7022a24f.chunk.css.map",
     "static/js/2.d8535f51.chunk.js.LICENSE.txt": "/asif_ahmed/static/js/2.d8535f51.chunk.js.LICENSE.txt",
     "static/media/about.css": "/asif_ahmed/static/media/asifdp.ada67e6d.jpg",
     "static/media/extra.css": "/asif_ahmed/static/media/team.1051b7a9.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5d3d183.js",
     "static/js/2.d8535f51.chunk.js",
-    "static/css/main.871ff6c5.chunk.css",
-    "static/js/main.70fb2537.chunk.js"
+    "static/css/main.7022a24f.chunk.css",
+    "static/js/main.8d69e193.chunk.js"
   ]
 }
